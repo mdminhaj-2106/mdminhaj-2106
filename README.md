@@ -163,5 +163,5 @@
   </p>
   <img src="https://api.iconify.design/lucide/git-commit-horizontal.svg?color=%23737373" width="30" align="center">
   <br>
-  <sub>Let's build something that shouldn't Exists!!</sub>
+  <sub>Let's build something that shouldn't exist!!</sub>
 </div>
