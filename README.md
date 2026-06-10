@@ -160,11 +160,8 @@
     <a href="https://instagram.com/minhaj_2106">
       <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="mdminhaju897866@gmail.com">
-      <img src="https://img.shields.io/badge/PING_NETWORK-000000?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email">
-    </a>
   </p>
   <img src="https://api.iconify.design/lucide/git-commit-horizontal.svg?color=%23737373" width="30" align="center">
   <br>
-  <sub>Let's build something that shouldn't work.</sub>
+  <sub>Let's build something that shouldn't Exists!!</sub>
 </div>
